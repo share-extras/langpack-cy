@@ -1,0 +1,583 @@
+Abort	Erthylu
+Accept	Derbyn
+Access (n)	Cyrchiad
+Access (v)	Cyrchu
+Accession   Esgyniad
+Account Cyfrif
+Action	Gweithred [-oedd, f.]
+Active	Gweithredol
+Activity	Gweithgaredd [-au]
+Additional	Ychwanegol
+Address	Cyfeiriad
+Add	Ychwanegu
+Administer	Gweinyddu
+Administration	Gweinyddiaeth
+Administrator	Gweinyddiwr
+Advanced	Uwch
+Alert	Rhybudd
+Alias	Ffugenw
+Allocated	Neilltuwyd
+Allocate	Neilltuo
+Allow	Caniatáu
+All	Pob Un / Popeth
+Ambiguous   Amwys
+Anchor	Angor [-au]
+Appearance	Ymddangosiad / Golwg
+Application	Cymhwysiad / Rhaglen
+Apply	Gweithredu / Rhoi / Gosod / Cymhwyso
+Approval	Cymeradwyo / Cymeradwyad
+Approve	Cymeradwyo
+Approved	Cymeradwyd
+Archive (n)	Archif [-au]
+Archive (v)	Archifio
+Area	Ardal
+Argument	Ymresymiad
+Ascending   Esgynnol
+Aspect	Agwedd
+Asset	Ased [Asedion]
+Assignee	Aseinai / Trosglwyddydd
+Assign	Neilltuo
+Associated	Cysylltiedig
+Association	Cysylltiad
+Attach	Atodi
+Attachment	Atodiad
+Attempt	Cais
+Audit	Archwiliad
+Authentication	Dilysiant
+Author	Awdur
+Authorise   Awdurdodi
+Authority   Awdurdod
+Automatic	Ymysgogol
+Available	Ar gael
+Avatar	Avatar
+Back	Nôl
+Bar	Bar [-rau]
+Begin	Dechrau / Cychwyn
+Bidirectional   Deugyfeiriol
+Biography	Bywgraffiad
+Body	Corff
+Boolean Boolaidd
+Both	Y ddwy
+Box	Blwch
+Broken	Toredig
+Browser	Porwr
+Bug	Gwall
+Button	Botwm
+Calendar	Calendr
+Cancel	Diddymu
+Case	Priflythrennedd
+Categorization	Categoreiddio
+Category	Categori [-ïau, m.]
+Certify	Dystysgrifo
+Change	Newid
+Characters	Nodau
+Characteristic  Nodwedd (-ion)
+Check (n)	Gwiriad [-au, m.]
+Check (v)	Gwirio
+Check In	Gwirio i Fewn
+Check Out	Gwirio Allan
+Child	Plentyn
+Choose	Dewis
+Chosen	A ddewiswyd / Wedi'i ddewis
+Classifiable	Dosbarthiadwy
+Classification  Dosbarthiad
+Classified  Dosbarthedig
+Classify / Declassify   Dosbarthu / Datddosbarthu
+Clear	Clirio
+Client	Dibynnydd
+Clipboard	Clipfwrdd
+Close	Cau
+Collaborator	Cydweithiwr / Cydgyfansoddiwr
+Collaboration	Cydweithrediad
+Colleague	Cydweithiwr [-wyr]
+Column	Colofn [-au, f.]
+Combine	Cyfuno
+Comment	Sylw [-adau]
+Common	Cyffredin
+Complete	Wedi'i Gwblhau / Cyflawn
+Component	Cydran [-nau, f.]
+Composite	Cyfansawdd
+Condition	Amod
+Configure	Ffurfweddu
+Confirmation	Cadarnhâd
+Conflict	Gwrthdrawiad
+Conflict	Gwrthdaro
+Console	Consol [-au, m.]
+Constrain	Cyfyngu
+Constraint	Cyfyngiad [-au]
+Consult Ymgynghori
+Consumer	Darllenwr / Defnyddiwr
+Container    Cynhwysydd
+Content	Cynnwys [Cynhwysion, m.]
+Context	Cyd-destun
+Contributor	Cyfrannwr
+Control Rheolydd [-ion]
+Convert	Trawsnewid
+Coordinator	Cydgysylltwr / Cyd-drefnydd
+Copy	Copi [-au, m.]
+Copy	Copïo
+Correct	Cywiro
+Correspondence  Gohebiaeth
+Count	Cyfri
+Creator	Crëwr
+Current	Presennol / Cyfredol
+Custom	Addasiedig / Dewisol
+Customizable	Addasadwy
+Customize	Addasu
+Cut	Torri
+Cycle   Cylch
+Dashboard	Gwibfwrdd
+Database	Cronfa Ddata [f.]
+Date	Dyddiad
+Day	Dydd / Diwrnod
+(Un)Declare (Did)Datgan
+Decline	Dirywio
+Decrease	Lleihau
+Deep	Dwfn
+Default (a)	Rhagosodedig / Diofyn
+Default (n)	Rhagosodyn (Rhagosodion). By default - Drwy ragosodiad
+Define  Diffinio
+Defined  Diffiniedig
+Deleted	A ddileuwyd / Dilëedig 
+Delete	Dileu
+Deploy	Darparu / Cyflwyno
+Deployment	Darpariaeth [f]
+Descending  Disgynnol
+Description	Disgrifiad
+Descriptor	Disgrifydd
+Destination	Cyrchfan [-nau f.]
+Destroy Dinistrio
+Detailed	Manwl
+Dialog	Deialog [-au, f.]
+Dictionary	Geiriadur
+Direction   Cyfeiriad
+Directory	Cyfeiriadur
+Disable	Analluogi
+Disallowed	Wedi wahardd
+Discard	Gwaredu / Taflu
+Discussion	Trafodaeth [-au, f.]
+Display	Arddangos
+Disposition Gwarediad / Anianawd [m.]
+Document	Dogfen [-nau, f.]
+Domain	Parth [-au]
+Done	Wedi'i wneud
+Downgrade   Israddio
+Download	Lawrlwytho
+Drag	Llusgo
+Drop	Gwaredu / Gollwng
+Due	Disgwyliedig / Dyledus / Dyladwy
+Duplicate	Dyblygu
+Duration	Cyfnod
+During	Yn ystod
+Dynamic	Deinamig
+Editable	Golygadwy
+Edit	Golygu
+Edition	Argraffiad / Rhifyn
+Editor	Golygydd
+Either	Naill ai
+Eligible    Cymwys
+E-mail	E-bost
+Embedded    Planedig
+Empty (a)	Gwag
+Empty (v)	Gwagu
+Enable	Galluogi
+Encoding	Amgodiad
+Encrypt	Cêl-ysgrifo
+End	Gorffen / Diweddu
+Ensure	Sicrheu
+Enter	Rhoi / Mewnbynnu
+Entity  Endid (au)
+Entry	Cofnod
+Error	Gwall
+Event	Digwyddiad
+Exception	Eithriad
+Exclude (v)	Gwahardd
+Exclude (n)	Gwaharddiad??
+Execute	Gweithredu
+Exemption - Rhyddhad
+Existing	Cyfredol / Presennol / Sy'n bodoli
+Expand	Ehangu
+Expected	Disgwyliedig
+Export	Allforyn
+Export	Allforio
+Expression  Mynegiad
+Extend  Ymestyn
+Extension	Estyniad
+External	Allannol
+Extract	Echdynnu
+Fail	Methwyd / Methu / Aflwyddo
+Failure	Methiant
+Feature	Nodwedd
+Feed	Porthiant
+Fetch	Nôl
+Field	Maes [Meysydd]
+Fifth	Pumed
+Filter (n)	Hidlydd [-ion, m.f.] / Hidl [-au, f.]
+Filter (v)	Hidlo
+Find	Canfod
+Finished	Gorffennwyd / Wedi Gorffen
+First	Cyntaf
+Fixed	Gosodedig
+Flatten	Lleddfu
+Folder	Ffolder [-au, m.]
+Following	Dilynol / Canlynol
+Format	Fformat
+Forum	Fforwm
+Forward	Ymlaen
+Fourth	Pedwerydd
+Frame   Ffrâm [Fframiau]
+Freeze  Rhewi
+From	O / Oddiwrth
+Fulfil  Gyflenwi
+Function    Gorchwyl [-ion]
+Functionality    Swyddogaeth
+Gateway Porth
+Generate	Creu
+Greek   Groegaidd
+Group 	Grŵp [Grwpiau, m.]
+Guest	Gwestai [Gwesteion]
+Guide   Canllaw [-iau]
+Header	Pennawd
+Help	Cymorth
+Hide	Cuddio
+Hierarchy   Hierarchaeth [-au] / Gradd
+Hierarchical   Hierarchaidd
+Highest	Uchaf
+Host	Gwesteiwr [Gwesteiwyr]
+Hour	Awr
+Icon	Eicon [-au, m.]
+Identification  Adnabyddiaeth
+Identifier	Dynodiad [-au, m.]
+Ignore	Anwybyddu
+Image Delwedd(au)
+Import	Mewnforio
+Import	Mewnforyn [-ion, m.]
+Inactive	Anweithredol
+Include	Cynnwys
+Increase	Cynyddu
+Index	Mynegai [Mynegeion]
+Indicator   Dangosydd [-ion]
+Inherited	Etifeddedig
+Inherit	Etifeddu
+Initial	Cychwynnol
+Inline	Mewn-lein
+Insert	Mewnosod
+Instruction Cyfarwyddiad [-au]
+Interface	Rhyngwyneb
+Interpret   Dehongli
+Invalid	Annilys
+Invert	Gwrthdroi
+Invite	Gwahodd
+Issue	Mater
+Job	Swydd
+Keep	Cadw
+Keyword Allweddair
+Label   Label [-au]
+Language	Iaith [Ieithoedd]
+Last 	Olaf
+Later	Yn Nes Ymlaen / Yn y dyfodol
+Latest	Diweddaraf
+Layered	Haenog / Wedi Haenu
+Layout	Cynllun
+Library	Llyfrgell
+License	Trwydded
+Limit	Cyfyngu
+Limited	Cyfyngedig
+Link	Cyswllt [Cysylltiadau]
+List	Rhestr [-au, f.]
+Load	Llwytho
+Locale	Lleoleiddiad
+Location	Lleoliad
+Lock (n)	Clo
+Lock (v)	Cloi
+Log (n) Cofnod
+Log (v) Cofnodi
+Loss	Colled
+Lowest	Isaf
+Maintainer	Cynhaliwr
+Major	Mawr
+Make	Gwneud
+Manager	Rheolwr / Rheolydd
+Mandatory   Gorfodol
+Manually    Â llaw
+Mapping Mapiad [-au]
+Match	Cydweddu a
+Maximum	Uchafswm
+Maximize    Mwyhau
+Media	Cyfrwng [-yngau]
+Menu	Dewislen
+Message	Neges [Negeseuon]
+Mimetype	Math MIME
+Minor	Bychan
+Minute	Munud
+Mismatch	Anghydweddiad
+Model	Model [-au]
+Moderate   Cymedroli
+Moderated   Cymedroledig
+Modification	Addasiad
+Modifier	Addasydd
+Modify	Addasu
+Month	Mis
+Move	Symud
+Multilingual	Amlieithog
+Multiple	Lluosol
+Name	Enw
+Navigate	Llywio
+Negative	Negyddol
+New	Newydd
+Newer	Diweddarach
+Next	Nesaf
+Node	Nôd
+Nominated   Enwebedig / Wedi enwebu
+Note (v)	Noder
+Note (n)	Nodyn
+Not found	Ni chanfuwyd
+Notify	Hysbysu
+Object	Gwrthrych [-au, m.]
+Occurrence	Digwyddiad
+Offline	All-lein
+Old	Hen
+Older	Henach
+Online	Ar-lein
+Open	Agor
+Operation	Gweithrediad [-au, m.]
+Optional	Dewisol
+Option	Dewisiad / Opsiwn [-nau]
+Order   Trefn
+Organization	Sefydliad / Corff
+Original	Gwreiddiol
+Originating Darddiadol
+Originator  Darddwr / Dechreuwr
+Other	Eraill
+Output	Allbwn
+Overwrite	Dros-ysgrifennu
+Owner	Perchennog
+Page	Tudalen [-nau]
+Parallel	Paralel
+Parameter	Paramedr [-au]
+Parent	Rhiant [Rhieni]
+Partial	Rhannol
+Password	Cyfrinair [-eiriau, m.]
+Paste	Gludo
+Pattern	Patrwm
+Permanently	Am byth
+Permission	Caniatâd
+Personal	Personol
+Person	Person [-au, m.]
+Popup	Naidlen	[-ni] / Bryslen [-ni]
+Posted	Wedi'i phostio
+Post (n)	Post [Pyst] / Hysbysiad [-au]
+Post (v)	Postio / Hysbysu
+Preferences	Dewisiadau
+Prefix	Rhagddodiad
+Presence	Presenoldeb [m.]
+Preview (n)	Rhagolwg
+Preview (v)	Rhagolygu
+Previous	Blaenorol / Cynt
+Printable	Argraffadwy
+Priority	Blaenoriaeth
+Proceed	Mynd Ymlaen
+Profile	Proffil
+Progress	Cynnydd
+Project	Project / Cywaith
+Property	Priodwedd [-au, f.]
+Provide	Darparu
+Provider	Darparwr [-wyr, m.]
+Proxy   Dirprwy
+Public	Cyhoeddus
+Publish	Cyhoeddi
+Publisher	Cyhoeddwr
+Purge	Carthu
+Quarter Chwarter
+Query   Ymholiad
+Quota	Cwota [-âu]
+Raise	Codi
+Random	Hap
+Range	Ystod
+Read-only	Darllen-yn-unig
+Receiver	Derbyniwr / Derbynnwr
+Recent	Diweddar / Diweddaraf
+Recipient	Derbyniwr
+Record  Cofnod [-ion, m.]
+Recover	Adfer
+Redirect	Ailgyfeirio
+Redo	Ail-wneud
+Reference (n)	Cyfeirnod [-au]
+Reference (v)	Cyfeirio
+Refresh	Adnewyddu / Ailfywio
+Regenerate	Ailgreu
+Reject	Gwrthod
+Related	Perthnasol
+Relationship    Perthynas [-nasau]
+Release	Rhyddhau
+Reload	Ail-lwytho
+Reminder	Atgof / Atgoffydd
+Removable	Symudadwy
+Remove	Tynnu / Gwaredu
+Rendering Engine	Peiriant Llunio
+Render	Llunio
+Rendition	Lluniad / Datganiad [-au, m.]
+Replace	Amnewid
+Reply	Ymateb
+Report	Adroddiad
+Repository	Repositori
+Request	Cais
+Required	Angenrheidiol / Sydd angen
+Reset   Ailosod
+Resizable	Ailfeintiol
+Resize	Ailfeintio
+Resolution  Cydraniad
+Resource	Adnodd [-au, m.]
+Response    Ymateb
+Restore	Adfer / Adferwyo
+Restricted	Wedi Cyfyngu
+Result	Canlyniad
+Return  Dychwelyd
+Reverse Gwrthdroi
+Revert	Dychwelyd
+Review	Adolygu
+Reviewer	Adolygydd
+Revoke  Dirymu
+Right   Hawl
+Role	Rôl
+Roman   Rhufeinig
+Root	Gwraidd
+Rule	Rheol [-au, f.]
+Sandbox	Blwch Tywod
+Save	Cadw
+Saved	Cadwedig / A gadwyd
+Schedule    Trefnlen
+Scheduled   Trefnlenedig / Wedi'i Treflennu
+Script	Sgript
+Scrollable	Graddadwy
+Search	Chwiliad
+Second	Ail
+Second	Eiliad
+Security    Gwarchodaeth [f.]
+Select	Dewis
+Selected	A Ddewiswyd / Dewisedig
+Selection	Dewisiad
+Send	Anfon
+Series  Cyfres
+Server	Gweinydd [-ion, m.]
+Service	Gwasanaeth [-au, f.]
+Session	Sesiwn
+Set (n) Set [-iau]
+Set	(v) Gosod
+Setting	Gosodiad [-au, m.]
+Set up	Gosod
+Shallow	Bas
+Shared	Rhannedig
+Sheet	Dalen
+Shelf	Silff
+Shortcut	Byrlwybr [-au]
+Show	Dangos
+Sidebar	Bar Ochr
+Simple	Syml
+Site	Safle
+Size	Maint
+Snapshot	Ciplun
+Source  Ffynhonnell
+Space	Lle [-oedd, m.]
+Specialise	Arbenigo
+Specified	Penodedig / Penodol 
+Specify	Penodi
+Split   Ymrannu
+Standard	Safonol
+Start	Cychwyn / Dechrau
+State	Cyflwr
+Static	Sefydlog
+Status	Cyflwr
+Step	Cam
+Store	Stôr
+Style	Arddull
+Subject	Pwnc
+Submission	Cyflwyniad / Gynnig
+Submit	Cyflwyno
+Success	Llwyddiant
+Successfully	Ymysgogol
+Suggestion	Awgrym
+Suitable	Addas
+Summary	Crynodeb
+Support (n)	Cynhaliaeth
+Support (v)	Cynhelir
+System	System / Cysawd
+Tag	Tag [-iau]
+Task	Tasg [-au, f.]
+Template	Templed [-i]
+Tenant	Tenant [-iaid, m.]
+Text	Testun
+Third	Trydydd
+Thumbnail	Rhagolygon Cryno / Llun Cryno / Ciplun
+Tier	Haen
+Time	Amser
+Timeout	Goramser
+Title	Teitl
+To-do	I'w-Wneud
+To	I
+Token   Tocyn [-nau, m.]
+Toggle	Toglu
+Toolbar	Bar(rau) Offer
+Topic	Pwnc [Pynciau]
+Total	Cyfanswm
+Transfer    Trosglwyddo
+Transform	Trawsffurfio
+Translation	Cyfieithiad
+Translator	Cyfieithiwr
+Trigger (v) Cychwyn
+Type	Math [-au, m.]
+Uncompleted	Ni chwblhawyd
+Undefined	Anniffiniedig / Heb ei Diffinio
+Undo	Dadwneud
+Unique  Unigryw
+Unknown	Anhysbys
+Unlock	Dadgloi
+Upcoming	Gerllaw
+Update (v)	Diweddaru
+Update (n)	Adnewyddiad
+Upgrade Uwchraddio
+Upload	Llwytho i fyny / Fyny-lwytho / Lanlwytho
+Usage	Defnydd
+Validate	Dilysu
+Validate	Dilysu
+Validation	Dilysiant
+Valid	Dilys
+Value	Gwerth [-oedd, f]
+Verify  Gwireddu
+Version	Fersiwn [-ynau, m]
+Versioning	Fersiynu
+View (n)	Golwg [-on, f.]
+View (v)	Gweld
+Visibility	Gwelededd
+Vital   Bywiol
+Warning	Rhybudd
+Watch	Gwilio
+Web Form	Ffurflen Gwe
+Web	Gwe
+Web Project	Project Gwe
+Web Site	Safle Gwe
+Week	Wythnos
+When	Wrth e.g. Gwall wrth lwytho'r ffeil batrymlun
+Willing Fodlon
+Wizard	Dewin
+Workflow	Llif[-iau] Gwaith [f.]
+Workspace	Gweithle
+Writable	Ysgrifenadwy
+Write	Ysgrifennu
+Year	Blwyddyn
+Zone    Cylchfa[-oedd]
+
+Example phrases
+===============
+
+Are you sure you want to..	A ydych chi'n siŵr eich bod am* / A ydych chi'n siŵr eich bod eisiau / Ydych chi'n siŵr eich bod chi eisiau clirio eich dyluniad ar y sgrin?
+Do you really want to...	A ydych wir eisiau...
+Do you want to...	A ydych chi am...
+This page allows you to...	Galluoga'r dudalen hon/yma i chi...
+The following items will be...	Mi fydd yr eitemau hyn...
+The item \"%1\" will be permanently deleted.	My fydd yr eitem hyn yn cael ei ddileu am byth.
+This action cannot be undone	Ni ellir dad-wneud y gweithrediad yma / Ni cheir dadwneud y weithred hon nes ymlaen / Nid oes modd 
+This...	... hon
+This option lets you...	Mae'r dewisiad yma yn gadael i chi
+This wizard will help you to...	 	 Bydd y dewin (hwn/yma) yn eich cynorthwyo i...
+Ymddengys bod y neges yr ydych wedi cyfansoddi yn cyfeirio i ffeil atodiedig, ond nid ydych wedi atodi rhywbeth.\n Ydych eisiau atodi ffeil i'ch neges?
