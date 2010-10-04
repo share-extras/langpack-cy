@@ -3,13 +3,14 @@ Accept	Derbyn
 Access (n)	Cyrchiad
 Access (v)	Cyrchu
 Accession   Esgyniad
-Account Cyfrif
+Account Cyfrif [-on]
 Action	Gweithred [-oedd, f.]
 Active	Gweithredol
 Activity	Gweithgaredd [-au]
 Additional	Ychwanegol
 Address	Cyfeiriad
 Add	Ychwanegu
+Adhoc Adhoc
 Administer	Gweinyddu
 Administration	Gweinyddiaeth
 Administrator	Gweinyddiwr
@@ -269,7 +270,7 @@ Invalid	Annilys
 Invert	Gwrthdroi
 Invite	Gwahodd
 Issue	Mater
-Job	Swydd
+Job	Tasg
 Keep	Cadw
 Keyword Allweddair
 Label   Label [-au]
@@ -359,6 +360,7 @@ Parent	Rhiant [Rhieni]
 Partial	Rhannol
 Password	Cyfrinair [-eiriau, m.]
 Paste	Gludo
+Patch Cywiriad
 Pattern	Patrwm
 Permanently	Am byth
 Permission	Caniatâd
@@ -522,6 +524,7 @@ Topic	Pwnc [Pynciau]
 Total	Cyfanswm
 Transfer    Trosglwyddo
 Transform	Trawsffurfio
+Transition  Trawsnewidiad
 Translation	Cyfieithiad
 Translator	Cyfieithiwr
 Trigger (v) Cychwyn
