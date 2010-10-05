@@ -401,6 +401,7 @@ Receiver	Derbyniwr / Derbynnwr
 Recent	Diweddar / Diweddaraf
 Recipient	Derbyniwr
 Record  Cofnod [-ion, m.]
+Record Keeping Cadw Cofnodion
 Recover	Adfer
 Redirect	Ailgyfeirio
 Redo	Ail-wneud
