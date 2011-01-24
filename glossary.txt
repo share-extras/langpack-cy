@@ -233,6 +233,7 @@ Fulfil  Gyflenwi
 Function    Gorchwyl [-ion]
 Functionality    Swyddogaeth
 Gateway Porth
+General Cyffredinol
 Generate	Creu
 Greek   Groegaidd
 Group 	Grŵp [Grwpiau, m.]
@@ -284,8 +285,9 @@ Library	Llyfrgell
 License	Trwydded
 Limit	Cyfyngu
 Limited	Cyfyngedig
-Link	Cyswllt [Cysylltiadau]
-List	Rhestr [-au, f.]
+Link (n)    Cyswllt [Cysylltiadau]
+Link (v)    Cysylltu â
+List	Rhestr [-i, f.]
 Load	Llwytho
 Locale	Lleoleiddiad
 Location	Lleoliad
@@ -364,6 +366,7 @@ Patch Cywiriad
 Pattern	Patrwm
 Permanently	Am byth
 Permission	Caniatâd
+Persist  Dyfalbarhau
 Personal	Personol
 Person	Person [-au, m.]
 Popup	Naidlen	[-ni] / Bryslen [-ni]
@@ -418,7 +421,8 @@ Reminder	Atgof / Atgoffydd
 Removable	Symudadwy
 Remove	Tynnu / Gwaredu
 Rendering Engine	Peiriant Llunio
-Render	Llunio
+Render (v)  Llunio / Datgan
+Renderer  Lluniwr
 Rendition	Lluniad / Datganiad [-au, m.]
 Replace	Amnewid
 Reply	Ymateb
@@ -468,6 +472,7 @@ Session	Sesiwn
 Set (n) Set [-iau]
 Set	(v) Gosod
 Setting	Gosodiad [-au, m.]
+Set Set [f.]
 Set up	Gosod
 Shallow	Bas
 Shared	Rhannedig
@@ -510,6 +515,7 @@ Task	Tasg [-au, f.]
 Template	Templed [-i]
 Tenant	Tenant [-iaid, m.]
 Text	Testun
+Theme Thema [Themâu]
 Third	Trydydd
 Thumbnail	Rhagolygon Cryno / Llun Cryno / Ciplun
 Tier	Haen
