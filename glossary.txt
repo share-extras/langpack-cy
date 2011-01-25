@@ -279,7 +279,7 @@ Language	Iaith [Ieithoedd]
 Last 	Olaf
 Later	Yn Nes Ymlaen / Yn y dyfodol
 Latest	Diweddaraf
-Layered	Haenog / Wedi Haenu
+Layered  Haenog / Wedi Haenu
 Layout	Cynllun
 Library	Llyfrgell
 License	Trwydded
