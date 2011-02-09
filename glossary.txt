@@ -270,7 +270,7 @@ Interpret   Dehongli
 Invalid	Annilys
 Invert	Gwrthdroi
 Invite	Gwahodd
-Issue	Mater
+Issue	Mater [-ion, m.]
 Job	Tasg
 Keep	Cadw
 Keyword Allweddair
@@ -369,6 +369,7 @@ Permission	Caniatâd
 Persist  Dyfalbarhau
 Personal	Personol
 Person	Person [-au, m.]
+Placeholder Dalfan [m.]
 Popup	Naidlen	[-ni] / Bryslen [-ni]
 Posted	Wedi'i phostio
 Post (n)	Post [Pyst] / Hysbysiad [-au]
@@ -491,6 +492,7 @@ Specialise	Arbenigo
 Specified	Penodedig / Penodol 
 Specify	Penodi
 Split   Ymrannu
+Spreadsheet Taenlen [-enni, f.]
 Standard	Safonol
 Start	Cychwyn / Dechrau
 State	Cyflwr
@@ -509,6 +511,7 @@ Suitable	Addas
 Summary	Crynodeb
 Support (n)	Cynhaliaeth
 Support (v)	Cynhelir
+Supported   Cynaledig / Wedi'i cynnal
 System	System / Cysawd
 Tag	Tag [-iau]
 Task	Tasg [-au, f.]
@@ -517,7 +520,7 @@ Tenant	Tenant [-iaid, m.]
 Text	Testun
 Theme Thema [Themâu]
 Third	Trydydd
-Thumbnail	Rhagolygon Cryno / Llun Cryno / Ciplun
+Thumbnail	mân-lun [m.] / Rhagolygon Cryno / Llun Cryno / Ciplun
 Tier	Haen
 Time	Amser
 Timeout	Goramser
