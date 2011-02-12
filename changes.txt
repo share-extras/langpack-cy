@@ -23,3 +23,5 @@ Time Stamp -> Amsernod
 dewisiedig -> dewisedig
 cyfathrebu -> cyfateb
 A gadwyd -> Cadwedig
+Cymhwysiad -> Rhaglen
+Neilltuo -> Aseinio

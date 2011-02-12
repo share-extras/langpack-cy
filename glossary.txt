@@ -40,6 +40,7 @@ Assignee	Aseinai / Trosglwyddydd
 Assign	Neilltuo
 Associated	Cysylltiedig
 Association	Cysylltiad
+Asynchronous   Anghydamseredig
 Attach	Atodi
 Attachment	Atodiad
 Attempt	Cais
@@ -64,6 +65,7 @@ Broken	Toredig
 Browser	Porwr
 Bug	Gwall
 Button	Botwm
+Bypass   Osgoi
 Calendar	Calendr
 Cancel	Diddymu
 Case	Priflythrennedd
@@ -185,6 +187,7 @@ Enable	Galluogi
 Encoding	Amgodiad
 Encrypt	Cêl-ysgrifo
 End	Gorffen / Diweddu
+Endpoint Pwynt terfynnol
 Ensure	Sicrheu
 Enter	Rhoi / Mewnbynnu
 Entity  Endid (au)
@@ -251,7 +254,7 @@ Icon	Eicon [-au, m.]
 Identification  Adnabyddiaeth
 Identifier	Dynodiad [-au, m.]
 Ignore	Anwybyddu
-Image Delwedd(au)
+Image Delwedd(au, f.)
 Import	Mewnforio
 Import	Mewnforyn [-ion, m.]
 Inactive	Anweithredol
@@ -348,9 +351,11 @@ Optional	Dewisol
 Option	Dewisiad / Opsiwn [-nau]
 Order   Trefn
 Organization	Sefydliad / Corff
+Origin   Tarddiad [-au, m.]
 Original	Gwreiddiol
 Originating Darddiadol
 Originator  Darddwr / Dechreuwr
+Orphan   Amddifad n.m. (amddifaid)
 Other	Eraill
 Output	Allbwn
 Overwrite	Dros-ysgrifennu
@@ -426,6 +431,7 @@ Render (v)  Llunio / Datgan
 Renderer  Lluniwr
 Rendition	Lluniad / Datganiad [-au, m.]
 Replace	Amnewid
+Replication Dyblygiad
 Reply	Ymateb
 Report	Adroddiad
 Repository	Repositori
@@ -466,6 +472,7 @@ Select	Dewis
 Selected	A Ddewiswyd / Dewisedig
 Selection	Dewisiad
 Send	Anfon
+Serialise   Cyfresu
 Series  Cyfres
 Server	Gweinydd [-ion, m.]
 Service	Gwasanaeth [-au, f.]
@@ -545,6 +552,7 @@ Undo	Dadwneud
 Unique  Unigryw
 Unknown	Anhysbys
 Unlock	Dadgloi
+Unsuccessful   Aflwyddiannus
 Upcoming	Gerllaw
 Update (v)	Diweddaru
 Update (n)	Adnewyddiad
