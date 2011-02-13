@@ -59,6 +59,7 @@ Bidirectional   Deugyfeiriol
 Biography	Bywgraffiad
 Body	Corff
 Boolean Boolaidd
+Bootstrap   Llwytho-mwdwl v.
 Both	Y ddwy
 Box	Blwch
 Broken	Toredig
