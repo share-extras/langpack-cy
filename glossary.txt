@@ -169,6 +169,8 @@ Download	Lawrlwytho
 Drag	Llusgo
 Drop	Gwaredu / Gollwng
 Due	Disgwyliedig / Dyledus / Dyladwy
+Dump  Dymp (-iau) n.m.
+Dump  Dympio v.
 Duplicate	Dyblygu
 Duration	Cyfnod
 During	Yn ystod
@@ -500,6 +502,7 @@ Specified	Penodedig / Penodol
 Specify	Penodi
 Split   Ymrannu
 Spreadsheet Taenlen [-enni, f.]
+Stack Tas n.f. (Teisi)
 Standard	Safonol
 Start	Cychwyn / Dechrau
 State	Cyflwr
@@ -539,6 +542,7 @@ Toggle	Toglu
 Toolbar	Bar(rau) Offer
 Topic	Pwnc [Pynciau]
 Total	Cyfanswm
+Trace Trywydd n.m.
 Transfer    Trosglwyddo
 Transform	Trawsffurfio
 Transition  Trawsnewidiad
@@ -582,7 +586,7 @@ When	Wrth e.g. Gwall wrth lwytho'r ffeil batrymlun
 Willing Fodlon
 Wizard	Dewin
 Workflow	Llif[-iau] Gwaith [f.]
-Workspace	Gweithle
+Workspace	Gweithfan (-nau) n.
 Writable	Ysgrifenadwy
 Write	Ysgrifennu
 Year	Blwyddyn
