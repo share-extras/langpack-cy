@@ -530,7 +530,7 @@ Tenant	Tenant [-iaid, m.]
 Text	Testun
 Theme Thema [Themâu]
 Third	Trydydd
-Thumbnail	mân-lun [m.] / Rhagolygon Cryno / Llun Cryno / Ciplun
+Thumbnail	Mân-lun n.m. / Rhagolygon Cryno / Llun Cryno / Ciplun
 Tier	Haen
 Time	Amser
 Timeout	Goramser
