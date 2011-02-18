@@ -354,6 +354,7 @@ Optional	Dewisol
 Option	Dewisiad / Opsiwn [-nau]
 Order   Trefn
 Organization	Sefydliad / Corff
+Orientation Gogwydd n.m.
 Origin   Tarddiad [-au, m.]
 Original	Gwreiddiol
 Originating Darddiadol
