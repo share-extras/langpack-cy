@@ -19,7 +19,7 @@
     <property name="dist.dir" value="${build.dir}/dist" />
     <property name="pkg.base" value="alfresco-langpack" />
     <property name="zip.name" value="${pkg.base}_${locale.name}.zip" />
-    <property name="jar.name" value="${pkg.base}_${locale.name}.zip" />
+    <property name="jar.name" value="${pkg.base}_${locale.name}.jar" />
     <property name="zip.file" value="${dist.dir}/${zip.name}" />
     <property name="jar.file" value="${dist.dir}/${jar.name}" />
     <property name="copy.verbose" value="false" />
