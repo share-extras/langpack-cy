@@ -2,6 +2,7 @@ Abort	Erthylu
 Accept	Derbyn
 Access (n)	Cyrchiad
 Access (v)	Cyrchu
+Accessibility  Hygyrchedd  [-m]
 Accession   Esgyniad
 Account Cyfrif [-on]
 Action	Gweithred [-oedd, f.]
@@ -386,6 +387,7 @@ Post (n)	Post [Pyst] / Hysbysiad [-au]
 Post (v)	Postio / Hysbysu
 Preferences	Dewisiadau
 Prefix	Rhagddodiad
+Preload  Cyn-lwytho
 Presence	Presenoldeb [m.]
 Preview (n)	Rhagolwg
 Preview (v)	Rhagolygu
@@ -457,6 +459,7 @@ Revert	Dychwelyd
 Review	Adolygu
 Reviewer	Adolygydd
 Revoke  Dirymu
+Rich Text   Testun Cyfoethog
 Right   Hawl
 Role	Rôl
 Roman   Rhufeinig
