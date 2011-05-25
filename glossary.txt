@@ -361,6 +361,7 @@ Originating Darddiadol
 Originator  Darddwr / Dechreuwr
 Orphan   Amddifad n.m. (amddifaid)
 Other	Eraill
+Outcome  Canlyniad
 Output	Allbwn
 Overwrite	Dros-ysgrifennu
 Owner	Perchennog
