@@ -18,6 +18,7 @@ Administrator	Gweinyddiwr
 Advanced	Uwch
 Alert	Rhybudd
 Alias	Ffugenw
+Alien Aliwn
 Allocated	Neilltuwyd
 Allocate	Neilltuo
 Allow	Caniatáu
