@@ -25,3 +25,14 @@ cyfathrebu -> cyfateb
 A gadwyd -> Cadwedig
 Cymhwysiad -> Rhaglen
 Neilltuo -> Aseinio
+
+Rhagosodedig -> Diofyn
+Rhagosodol -> Diofyn
+Llifiau -> Llifoedd
+Diddymu -> Canslo
+Sylw -> Sylwad
+Sbwriel
+Stor -> Storfa
+Mân-lun -> Bawdlun
+gwibfwrdd -> dangosfwrdd
+Hidl / hidlau

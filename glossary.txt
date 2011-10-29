@@ -36,7 +36,7 @@ Archive (v)	Archifio
 Area	Ardal
 Argument	Ymresymiad
 Ascending   Esgynnol
-Aspect	Agwedd
+Aspect	Agwedd [-au]
 Asset	Ased [Asedion]
 Assignee	Aseinai / Trosglwyddydd
 Assign	Neilltuo
@@ -215,7 +215,7 @@ Extension	Estyniad
 External	Allannol
 Extract	Echdynnu
 Fail	Methwyd / Methu / Aflwyddo
-Failure	Methiant
+Failure	Methiant [Methiannau]
 Feature	Nodwedd
 Feed	Porthiant
 Fetch	Nôl
@@ -377,7 +377,7 @@ Paste	Gludo
 Patch Cywiriad
 Pattern	Patrwm
 Permanently	Am byth
-Permission	Caniatâd
+Permission	Caniatâd [Caniatadau]
 Persist  Dyfalbarhau
 Personal	Personol
 Person	Person [-au, m.]
@@ -521,6 +521,7 @@ Style	Arddull
 Subject	Pwnc
 Submission	Cyflwyniad / Gynnig
 Submit	Cyflwyno
+Subscribe	Tanysgrifio
 Success	Llwyddiant
 Successfully	Ymysgogol
 Suggestion	Awgrym
@@ -537,7 +538,7 @@ Tenant	Tenant [-iaid, m.]
 Text	Testun
 Theme Thema [Themâu]
 Third	Trydydd
-Thumbnail	Mân-lun n.m. / Rhagolygon Cryno / Llun Cryno / Ciplun
+Thumbnail	Bawdlun [-iau] / Mân-lun n.m. / Rhagolygon Cryno / Llun Cryno / Ciplun
 Tier	Haen
 Time	Amser
 Timeout	Goramser
@@ -551,6 +552,7 @@ Topic	Pwnc [Pynciau]
 Total	Cyfanswm
 Trace Trywydd n.m.
 Transfer    Trosglwyddo
+Transfer    Trosglwyddiad[-au]
 Transform	Trawsffurfio
 Transition  Trawsnewidiad
 Translation	Cyfieithiad
