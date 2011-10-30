@@ -36,3 +36,4 @@ Stor -> Storfa
 Mân-lun -> Bawdlun
 gwibfwrdd -> dangosfwrdd
 Hidl / hidlau
+nôd -> nod
