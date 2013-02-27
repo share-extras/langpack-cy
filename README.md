@@ -1,6 +1,5 @@
-********************************************************************
-                  Alfresco Welsh Language Pack
-********************************************************************
+Alfresco Welsh Language Pack
+============================
 
 Author: Will Abson
 
@@ -17,9 +16,8 @@ As part of the project it has been necessary to standardise the
 translation of many of the terms used in the Alfresco interface, 
 which have been documented in the file glossary.txt.
 
-**********************
 Installation and Usage
-**********************
+----------------------
 
 Extract the contents of the ZIP file directly into 
 <TOMCAT_HOME>/shared/classes. The appropriate directory structure 
@@ -45,9 +43,8 @@ TinyMCE will not work.
 Web client: alfresco/scripts/tiny_mce
 Share: share/modules/editors/tiny_mce
 
-******
 Thanks
-******
+------
 
 The following sources have been instrumental in helping to develop 
 the translation:
