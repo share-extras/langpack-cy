@@ -35,7 +35,7 @@ your preferred languages - in Firefox click _Tools > Options > Content >
 Languages > Choose_.
 
 Note: TinyMCE translations (including Welsh) are available from the
-[http://tinymce.moxiecode.com/download_i18n.php](TinyMCE Language Packs) page. You will need to 
+[TinyMCE Language Packs](http://tinymce.moxiecode.com/download_i18n.php) page. You will need to 
 install these into the `alfresco` and `share` webapps in order to
 use TinyMCE as without a language pack for the current locale
 TinyMCE will not work.
@@ -49,12 +49,12 @@ Thanks
 The following sources have been instrumental in helping to develop 
 the translation:
 
- * [http://www.kyfieithu.co.uk/kywiro/index.php](Kywiro) by Kevin Donnelly - provided searchable translations of all
+ * [Kywiro](http://www.kyfieithu.co.uk/kywiro/index.php) by Kevin Donnelly - provided searchable translations of all
    the major open source Welsh translations
 
- * The Welsh Language Board's [http://www.e-gymraeg.co.uk/bwrdd-yr-iaith/termau/Default.aspx](National Database of Terms)
+ * The Welsh Language Board's [National Database of Term](http://www.e-gymraeg.co.uk/bwrdd-yr-iaith/termau/Default.aspx)
 
- * The BBC [http://www.bbc.co.uk/wales/learnwelsh/](Learn Welsh) dictionary, grammer checker and guides
+ * The BBC [Learn Welsh](http://www.bbc.co.uk/wales/learnwelsh/) dictionary, grammer checker and guides
 
- * Mark H. Nodine's [http://www.cs.cf.ac.uk/fun/welsh/LexiconForms.html](searchable lexicon of Welsh words)
+ * Mark H. Nodine's [searchable lexicon of Welsh words](http://www.cs.cf.ac.uk/fun/welsh/LexiconForms.html)
 
