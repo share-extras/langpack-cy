@@ -28,7 +28,7 @@ directory.
     ant dist-jar
 
 The command should build a JAR file named `alfresco-langpack_cy.jar`
-in the `dist` directory within your project.
+in the `build/dist` directory within the project.
 
 Installation
 ------------
