@@ -30,8 +30,8 @@ directory.
 The command should build a JAR file named `alfresco-langpack_cy.jar`
 in the `dist` directory within your project.
 
-Installation and Usage
-----------------------
+Installation
+------------
 
 Copy the JAR file into `<TOMCAT_HOME>/shared/lib`. If this directory does
 not exist then you can create it, but you should also check that the `shared.loader`
@@ -43,6 +43,9 @@ You should update the value if it is empty, or add this value to the bottom of t
 file if it is not already defined or is commented out.
 
 You will need to restart the Alfresco server before you can use the language pack.
+
+Usage
+-----
 
 Alfresco Share will auto-detect the client language based on your 
 browser settings. You will need to add 'Welsh' as the first entry in 
