@@ -81,6 +81,7 @@
    <target name="build-jar" description="Create JAR file of the language pack" depends="clean,build">
       <jar destfile="${jar.file}" basedir="${classes.dir}" />
    </target>
+   <target name="dist-jar" depends="build-jar"> <!-- Alias for consistency with other share-extras projects -->
     
     <target name="dist-zip-shared" description="Create ZIP file of the language pack for extraction into Tomcat's shared/classes directory" depends="clean,build">
       <zip destfile="${dist.file}">
