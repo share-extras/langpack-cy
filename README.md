@@ -7,7 +7,7 @@ This language pack provides translation of all the current web
 client message strings as well as all translatable repository
 messages.
 
-The translation is complete as of Alfresco Enterprise version 3.1 and
+The translation is complete for Alfresco Community 4.2.c and
 should be backwards-compatible with all previous versions.
 
 All translations have been spell-checked using the Welsh dictionary
