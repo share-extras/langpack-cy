@@ -35,7 +35,7 @@ Installation
 
 Copy the JAR file into `<TOMCAT_HOME>/shared/lib`. If this directory does
 not exist then you can create it, but you should also check that the `shared.loader`
-property defined in `<TOMCAT_HOME>/conf.catalina.properties` includes it, e.g.
+property defined in `<TOMCAT_HOME>/conf/catalina.properties` includes it, e.g.
 
     shared.loader=${catalina.home}/shared/classes,${catalina.home}/shared/lib/*.jar
 
