@@ -3,8 +3,7 @@ Alfresco Welsh Language Pack
 
 Author: Will Abson
 
-This language pack provides translation of all the current web 
-client message strings as well as all translatable repository
+This language pack provides translation of Alfresco Share as well as all translatable repository
 messages.
 
 The translation is complete for Alfresco Community 4.2.c and
@@ -53,7 +52,7 @@ your preferred languages - in Firefox click _Tools > Options > Content >
 Languages > Choose_ or click _Language settings_ in Chrome's Advanced Settings.
 
 To use the language pack in the Alfresco Explorer web client you will 
-need to add the 'cy' locale to the list of additional languages 
+need to add the `cy` locale to the list of additional languages 
 displayed on the login screen in `web-client-config-custom.xml`.
 
 Note: TinyMCE translations (including Welsh) are available from the
